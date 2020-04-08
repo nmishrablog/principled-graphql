@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Principled GraphQL',
-    description: 'Best practices for implementing and scaling a data graph'
+    title: 'Wisdom Curated',
+    description: 'Answer the right questions'
   },
   plugins: [
     {
